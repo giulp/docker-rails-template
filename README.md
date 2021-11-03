@@ -36,7 +36,7 @@ test:
   database: myapp_test
 ```
 
-# create db
+## create db
 
 ```
 docker-compose run web rails db:create
